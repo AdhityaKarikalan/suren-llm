@@ -1,0 +1,5 @@
+runpod
+transformers
+datasets
+hf_transfer
+peft
